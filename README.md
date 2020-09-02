@@ -1,2 +1,1 @@
-# plinko-whj
-plinko
+
